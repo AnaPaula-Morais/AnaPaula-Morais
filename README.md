@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Ana Paula Morais
 
 - 🔭 No momento estou começando a estudar sobre tecnologia
-- 🌱 Comecei minha caminhada estudando Python
 - 📚 Estudante de desenvolvimento web - Frontend
 
 <div align="center">
