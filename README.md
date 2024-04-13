@@ -32,6 +32,3 @@
   
   ##
   
-  ![Snake animation](https://github.com/AnaPaula-Morais/AnaPaula-Morais/blob/output/github-contribution-grid-snake.svg)
-
- ![snake gif](https://github.com/AnaPaula-Morais/AnaPaula-Morais/blob/output/github-contribution-grid-snake.svg)
