@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Ana Paula Morais
 
-- 🔭 No momento estou começando a estudar sobre tecnologia
-- 📚 Estudante de desenvolvimento web - Frontend
+📚 Desenvolvimento web - Frontend
 
 <div align="center">
   <a href="https://github.com/AnaPaula-Morais">
